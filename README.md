@@ -1,7 +1,7 @@
 # 英塔项目规范
 
 + `eclipse-java-google-style.xml` 是用于Google Java格式化化风格的Eclipse插件
-+ `eclipse-java-inta-style.xml` 是用于Inta Java格式化风格的Eclipse插件，它和Google Java风格的差别在于制表符`tab`采用4个空格
++ `eclipse-java-inta-style.xml` 是用于Inta Java格式化风格的Eclipse插件，它和Google Java风格的差别在于制表符`tab`采用4个空格长的`tab`
 
 #### 安装方法
 
